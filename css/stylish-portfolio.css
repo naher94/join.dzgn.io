@@ -22,6 +22,18 @@ body {
 	padding: 0;
 }
 
+a {
+	font-weight: 900;
+	color: #DBB17F;
+	font-weight: 900;
+	margin:0;
+	padding: 0;
+}
+
+a:hover{
+	color: #C9A375;
+}
+
 html,
 body {
 	height: 100%;
@@ -58,11 +70,6 @@ h2 {
 h3 {
 	color: white;
 	font-size: 24pt;
-}
-
-a {
-	padding-top: 10px;
-	margin: 10px;
 }
 
 #social {
