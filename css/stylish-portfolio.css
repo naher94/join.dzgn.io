@@ -33,6 +33,9 @@ a {
 a:hover{
 	color: #C9A375;
 }
+a:visited{
+	color: #C9A375;
+}
 
 html,
 body {
